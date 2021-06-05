@@ -14,4 +14,8 @@ Working of this script:
  
  how to create a telgram bot?
  https://docs.microsoft.com/en-us/azure/bot-service/bot-service-channel-connect-telegram?view=azure-bot-service-4.0
- here you can get step by step process for creating telegram bot
+ please check here how to get bot id and chat id :
+ https://forum.boltiot.com/t/chat-id-and-bot-id-in-telegram/2591/3
+ 
+  here you can get step by step process for creating telegram bot,chat_id and bot_id
+ 
